@@ -16,7 +16,7 @@
 const ashraf = {
     pronouns: "Ele" | "Dele",
     technologies:{
-        backEnd: ["java","javascript"],
+        backEnd: ["java","javascript","R"],
         fronEnd: ["angular"],
         database: ["mongo","mySql"],
         misc: ["Git"]
