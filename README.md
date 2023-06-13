@@ -1,7 +1,8 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## Oi, eu sou o Léo! 
-## Estudante de Ciência da Computação 👨‍💻
+## Cientista da Computação 
+## Estudante de Data Science/Data Analytic 👨‍💻
 
 
 
